@@ -2,7 +2,7 @@
 ## Sessions
 
 ### session 1
--   [Jupyter Practice Files](files/jupyter_parctices.zip)
+-   [Jupyter Practice Files]([files/jupyter_parctices.zip](https://github.com/moaddeli/paiacademy_python_2021sp/blob/main/files/jupyter_parctices.zip))
 
 ## References
 
