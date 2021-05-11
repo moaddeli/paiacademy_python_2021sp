@@ -1,8 +1,8 @@
 # Paiacademy Python basic Course Spring 2021
 ## Sessions
 
-
 ### session 1
+-   [Jupyter Practice Files](files/jupyter_parctices.zip)
 
 ## References
 
