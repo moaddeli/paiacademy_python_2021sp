@@ -2,7 +2,10 @@
 ## Sessions
 
 ### session 1
+-   [Notebook Files](https://github.com/moaddeli/paiacademy_python_2021sp/raw/main/files/lec1.zip)
 -   [Jupyter Practice Files](https://github.com/moaddeli/paiacademy_python_2021sp/raw/main/files/jupyter_parctices.zip)
+-   Install Download Anaconda [LINK](https://www.anaconda.com/products/individual)
+    -   **Note**: It's better to check boxes in `Advanced Installation Options` like this [picture](https://github.com/moaddeli/paiacademy_python_2021sp/blob/main/files/anaconda.jpeg)
 
 ## References
 
