@@ -6,6 +6,14 @@
 -   [Jupyter Practice Files](https://github.com/moaddeli/paiacademy_python_2021sp/raw/main/files/jupyter_parctices.zip)
 -   Install Download Anaconda [LINK](https://www.anaconda.com/products/individual)
     -   **Note**: It's better to check boxes in `Advanced Installation Options` like this [picture](https://github.com/moaddeli/paiacademy_python_2021sp/blob/main/files/anaconda.jpeg)
+-   Jupyter Notebook
+    * How to launch Jupyter Notebook in specific path by using Anaconda Prompt [Video](https://www.dideo.ir/v/yt/OJMILWh6ARY)
+    * Jupyter demo 1—Playing with Strings [Video](https://www.dideo.ir/v/yt/DLWBfR2hxoo/jupyter-demo-1%E2%80%94playing-with-strings)
+    * Intro to Jupyter notebooks [Link](https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_03_Intro_to_Jupyter_notebook.md)
+    * The Jupyter Notebook (User Documentation section) [Link](https://jupyter-notebook.readthedocs.io/en/stable/)
+    * Jupyter Notebook Cheat Sheet, DataCamp, [Link](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Jupyter_Notebook_Cheat_Sheet.pdf)
+-   Introduction to the command-line interface, [Link](https://tutorial.djangogirls.org/en/intro_to_command_line/)
+
 
 ## References
 
