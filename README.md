@@ -15,6 +15,9 @@
 -   Introduction to the command-line interface, [Link](https://tutorial.djangogirls.org/en/intro_to_command_line/)
 
 
+
+### session 2
+-   [Notebook Files](https://github.com/moaddeli/paiacademy_python_2021sp/raw/main/files/lec2_8.zip)
 ## References
 
 -   Jake Vanderplas, *A Whirlwind Tour of Python*,  Jupyter Notebooks online at
