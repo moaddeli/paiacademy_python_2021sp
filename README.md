@@ -4,7 +4,7 @@
 ### session 1
 -   [Notebook Files](https://github.com/moaddeli/paiacademy_python_2021sp/raw/main/files/lec1.zip)
 -   [Jupyter Practice Files](https://github.com/moaddeli/paiacademy_python_2021sp/raw/main/files/jupyter_parctices.zip)
--   Install Download Anaconda [LINK](https://www.anaconda.com/products/individual)
+-   Install Download Anaconda [Link](https://www.anaconda.com/products/individual)
     -   **Note**: It's better to check boxes in `Advanced Installation Options` like this [picture](https://github.com/moaddeli/paiacademy_python_2021sp/blob/main/files/anaconda.jpeg)
 -   Jupyter Notebook
     * How to launch Jupyter Notebook in specific path by using Anaconda Prompt [Video](https://www.dideo.ir/v/yt/OJMILWh6ARY)
@@ -18,6 +18,13 @@
 
 ### session 2
 -   [Notebook Files](https://github.com/moaddeli/paiacademy_python_2021sp/raw/main/files/lec2_8.zip)
+
+### session 3
+- Python Tutor : VISUALIZE CODE EXECUTION [Link](http://pythontutor.com/)
+  
+### session 4
+-   [Notebook Files](https://github.com/moaddeli/paiacademy_python_2021sp/raw/main/files/lec9_12.zip)
+
 ## References
 
 -   Jake Vanderplas, *A Whirlwind Tour of Python*,  Jupyter Notebooks online at
@@ -30,6 +37,7 @@
 -   MITx: 6.00.1x, *Introduction to Computer Science and Programming Using Python*, Online Course [Link](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2)
 -   CS for All [Link](https://www.cs.hmc.edu/twiki/bin/view/CSforAll/)
 -   CS 5 :  Introduction to Computer Science at Harvey Mudd College [LINK](https://www.cs.hmc.edu/twiki/bin/view/CS5)
+-   David Beazley, *Practical Python Programming* Course, [Link](https://dabeaz-course.github.io/practical-python/)
 -   The Python documentation <http://www.python.org/doc/>  
 -   The Python tutorial <http://docs.python.org/tutorial/>
 
